@@ -1,0 +1,50 @@
+This is TeX, Version 3.14159265 (TeX Live 2017/Debian) (preloaded format=tex 2021.12.14)  14 DEC 2021 03:05
+**udemytexfiles/lecture5.tex
+(./udemytexfiles/lecture5.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  {proc}
+? 
+! Undefined control sequence.
+l.2 \usepackage
+               {url, graphicx}
+? 
+! Undefined control sequence.
+l.3 \usepackage
+               [margin=1in]{geometry}
+? 
+! Undefined control sequence.
+l.5 \title
+          {My Fantastic Article}
+? 
+! Undefined control sequence.
+l.6 \author
+           {Toni Farley}
+? 
+! Undefined control sequence.
+l.7 \date
+         {}
+? 
+! Undefined control sequence.
+l.9 \begin
+          {document}
+? 
+! Undefined control sequence.
+l.11 \maketitle
+               
+? 
+! Undefined control sequence.
+l.13 \section
+             {Introduction}
+? 
+! Undefined control sequence.
+l.15 ...hat none of them were familiar with \LaTeX
+                                                  !  We talked to many diffe...
+
+? 
+! Undefined control sequence.
+l.17 \begin
+           {itemize}
+? 
+[1] )
+Output written on lecture5.dvi (1 page, 636 bytes).
